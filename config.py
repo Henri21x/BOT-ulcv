@@ -1,15 +1,15 @@
-BOT_TOKEN = '5153989700:AAGKKS7HQ0cVukh-n6fcQrH0JRm7ZrMvPQw'
+BOT_TOKEN = '5320811735:AAFS6_C9JVWdLdznmUvFc0wMxmE3yvigShg'
 API_ID = 16536294
 API_HASH = '0c780f6db3124fafbdc3dcde437e6f21'
 
 
 # DATOS DEL MOODLE
-USUARIO = 'usuario'
-PASSWORD = 'contraseña'
-USUARIO_ID = 1487
+USUARIO = 'dalberto'
+PASSWORD = 'opined-330'
+USUARIO_ID = 5847
 ZIP_MB = 399
-MOODLE_URL = 'moodle.uclv.edu.cu'
-OWNER = [1180073584]
+MOODLE_URL = 'moodle.uclv.edu.cu/'
+OWNER = [750059828]
 
 # CUENTA DE MEGA
 GMAIL_MEGA = 'gmail@gmail.com'
